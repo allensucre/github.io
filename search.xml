@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>”一个内容社区产品19年初的战略“</title>
+      <link href="/2020/02/26/yi-ge-nei-rong-she-qu-chan-pin-19-nian-de-zhan-lue/"/>
+      <url>/2020/02/26/yi-ge-nei-rong-she-qu-chan-pin-19-nian-de-zhan-lue/</url>
+      
+        <content type="html"><![CDATA[<p>  定期复盘，来做一下19年初的产品规划是否合理。</p><h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>公司被某巨头合并后，创始人终于解套离开。此时新来的高管团队（从没接触过互联网）接手公司；</p><ul><li><p>此时技术团队被分离了一半人离开，人员尚且充足；</p></li><li><p>产品团队分离了将近一半人；</p></li><li><p>主站主课产品已经在碰碰跌跌了一年多，经过18年的调整仍然存在很多问题（毕竟将近五六年的坑，很难立刻就填完）</p></li></ul><p>在此情况下，结合公司情况，产品特点，存在问题，外部环境市场发展，做出了19年的产品规划，并与COO进行讨论，均认为可行，决定按照方案来执行。</p><h2 id="产品规划是如何分析和制定的？"><a href="#产品规划是如何分析和制定的？" class="headerlink" title="产品规划是如何分析和制定的？"></a>产品规划是如何分析和制定的？</h2><h3 id="分析内外部环境"><a href="#分析内外部环境" class="headerlink" title="分析内外部环境"></a>分析内外部环境</h3><p>一份合理的计划，不能脱离实际去凭空制定。首先要对目前自身的现状和外部环境进行梳理。</p><p>当下存在的问题包括</p><ul><li>用户流失严重，数据处于持续下滑</li><li>新增用户非常缓慢</li><li>产品体验陈旧且不稳定，尤其是PC的产品体验，已经数年没有做过改动，客户端非常不稳定</li><li>作为收入来源之一的票务收入降低严重 </li><li>行业影响力降低</li><li>衍生品销售下滑</li><li>其他很多问题，无法一一列举，但是列举出来的基本属于当下面临的比较严重的问题</li></ul><p>造成这些问题的原因也很多，既有自身原因，也有外部原因。</p><ul><li>例如票务，由于没有参与票补大战，所占市场份额急剧萎缩。</li><li>外部市场环境起了很大变化</li></ul><h3 id="分析核心矛盾"><a href="#分析核心矛盾" class="headerlink" title="分析核心矛盾"></a>分析核心矛盾</h3><p>存在问题很多，但是资源永远是有限的，同时全做是不可能的，而且无法进行聚焦。所以一定要找出其中最关键的问题，将有限的资源投入到其中。这里面这么多问题，其实有的是直接结果，有的是间接结果，有的是现象，那其中最核心的问题。那在以上的问题里，哪个是最核心的问题呢？是用户减少，用户减少是一个核心因素，正是因为用户的减少，包括用户流失和增长不利，导致了影评人和影评减少，也导致了整体影响力的减弱，而影响力的减弱直接导致了我们在市场议价权的削弱，而用户减少直接导致了无法进行广告商业化，衍生品销售降低，票务收入降低。</p><h3 id="抓住核心矛盾"><a href="#抓住核心矛盾" class="headerlink" title="抓住核心矛盾"></a>抓住核心矛盾</h3><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 产品实战 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 产品规划 </tag>
+            
+            <tag> 战略规划 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>职场回顾</title>
       <link href="/2020/02/24/zhi-chang-hui-gu/"/>
       <url>/2020/02/24/zhi-chang-hui-gu/</url>
@@ -27,9 +54,9 @@
       
         <tags>
             
-            <tag> 内容产品 </tag>
-            
             <tag> 社区产品 </tag>
+            
+            <tag> 内容产品 </tag>
             
         </tags>
       
