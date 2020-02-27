@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://allensucre.github.io/"/>
-  <updated>2020-02-26T14:30:40.854Z</updated>
+  <updated>2020-02-27T03:14:23.346Z</updated>
   <id>http://allensucre.github.io/</id>
   
   <author>
@@ -15,6 +15,63 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>三省吾身：产品经理为什么要懂技术？</title>
+    <link href="http://allensucre.github.io/2020/02/26/chan-pin-jing-li-wei-shi-me-yao-dong-ji-zhu/"/>
+    <id>http://allensucre.github.io/2020/02/26/chan-pin-jing-li-wei-shi-me-yao-dong-ji-zhu/</id>
+    <published>2020-02-26T15:37:38.000Z</published>
+    <updated>2020-02-27T03:14:23.346Z</updated>
+    
+    <content type="html"><![CDATA[<p>关于产品经理是否需要懂技术的话题，有很多话题讨论了很久。由于这个岗位的入门门槛比较低，加上前几年的”人人都是产品经理“的广为宣传，让产品经理被误认为是与运营并列的互联网门槛低的岗位。在这之前，我一直认为，产品经理最重要的价值在于对需求的敏感洞察和策划，调动资源达成目的做出一个合格或优秀的产品。懂技术最好，不懂的话如果你本身素质够好，也不影响你的发展。当然一点不懂那是不行的，至少要做到跟程序员开发交流无障碍，基本的判断还是要具备的。毕竟调侃归调侃，产品经理这个岗位是需要有很强的逻辑能力，是个妥妥的艺术人文与科技相结合的岗位。</p><p>但是最近一段时间我看了一些开源项目之后，深刻意识到产品经理如果懂技术的价值。事实上很多开源产品做得非常好，只要根据说明文档用起来就行，这对低成本创业精益验证有很高的价值。如果不是特别与众不同的idea ，对于startup的产品，基本上都能靠 开源产品+ 广大的自媒体和社交平台 来进行快速验证，而这个门槛没有想象的那么高。但是如果不懂技术，往往第一选择是去找开发合作，这个成本还是挺高的，各种沟通成本，如果是组团创业，还涉及到利益分配等等问题。</p><p>开发人员懂各种工具，但不一定能意识到它的作用和价值，而不懂技术的产品经理往往对技术有着敬畏之心，过高的估计了实现成本，如果这两者之间的鸿沟可以缩小，会很大的提高生产力，而代价只不过是产品经理学学怎么把工具用起来。显然这是一笔极为合适的买卖</p><p>当然如果你天赋异禀，是下个雷军或张小龙，那就当我放了个屁…..</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;关于产品经理是否需要懂技术的话题，有很多话题讨论了很久。由于这个岗位的入门门槛比较低，加上前几年的”人人都是产品经理“的广为宣传，让产品经理被误认为是与运营并列的互联网门槛低的岗位。在这之前，我一直认为，产品经理最重要的价值在于对需求的敏感洞察和策划，调动资源达成目的做出一
+      
+    
+    </summary>
+    
+    
+      <category term="生活随想" scheme="http://allensucre.github.io/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E6%83%B3/"/>
+    
+    
+      <category term="产品经理" scheme="http://allensucre.github.io/tags/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/"/>
+    
+      <category term="开源技术" scheme="http://allensucre.github.io/tags/%E5%BC%80%E6%BA%90%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>社区启示录1:把用户当人看</title>
+    <link href="http://allensucre.github.io/2020/02/26/she-qu-qi-shi-lu-yi/"/>
+    <id>http://allensucre.github.io/2020/02/26/she-qu-qi-shi-lu-yi/</id>
+    <published>2020-02-26T15:17:20.000Z</published>
+    <updated>2020-02-26T15:36:42.923Z</updated>
+    
+    <content type="html"><![CDATA[<p>先看一段视频奇葩说第六季关于事和人的关系</p><p> <a href="https://www.iqiyi.com/v_19rw6u07as.html?list=19rra9dw7i#curid=11292245400_1c8e55fb8413ec99ae2de16a670993d8" target="_blank" rel="noopener">https://www.iqiyi.com/v_19rw6u07as.html?list=19rra9dw7i#curid=11292245400_1c8e55fb8413ec99ae2de16a670993d8</a></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;先看一段视频奇葩说第六季关于事和人的关系&lt;/p&gt;
+&lt;p&gt; &lt;a href=&quot;https://www.iqiyi.com/v_19rw6u07as.html?list=19rra9dw7i#curid=11292245400_1c8e55fb8413ec99ae2de16a6
+      
+    
+    </summary>
+    
+    
+      <category term="产品实战" scheme="http://allensucre.github.io/categories/%E4%BA%A7%E5%93%81%E5%AE%9E%E6%88%98/"/>
+    
+    
+      <category term="社区" scheme="http://allensucre.github.io/tags/%E7%A4%BE%E5%8C%BA/"/>
+    
+      <category term="产品实战" scheme="http://allensucre.github.io/tags/%E4%BA%A7%E5%93%81%E5%AE%9E%E6%88%98/"/>
+    
+  </entry>
   
   <entry>
     <title>如何在内忧外患之际制定出一个合理的产品战略规划？</title>
