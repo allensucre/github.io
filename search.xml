@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>快问快答：社区产品扩大用户规模时，随着新用户进入，如何保持原有社区氛围不会泛化？</title>
+      <link href="/2020/02/27/kuai-wen-kuai-da-she-qu-chan-pin-kuo-da-yong-hu-gui-mo-shi-sui-zhao-xin-yong-hu-jin-ru-ru-he-bao-chi-yuan-you-she-qu-fen-wei-bu-hui-fan-hua/"/>
+      <url>/2020/02/27/kuai-wen-kuai-da-she-qu-chan-pin-kuo-da-yong-hu-gui-mo-shi-sui-zhao-xin-yong-hu-jin-ru-ru-he-bao-chi-yuan-you-she-qu-fen-wei-bu-hui-fan-hua/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p> 快问快答系列：社区产品扩大用户规模时，随着新用户进入，如何保持原有社区氛围不会泛化？</p><p>比如陌陌、探探、知乎在扩张的同时，用户就会下沉。</p></blockquote><p>这个问题挺有意思，我最近觉得这个问题应该与产品形态和文化都有关系。北京人口几千万，有农民工，有中产阶层，有富豪，有权贵，有外国人，大家都相安无事，都有自己的空间，大家觉得这是一个包容的城市，城市里的一个个子社群很好的服务了不同的人群，后厂村聚集了互联网人群，朝阳cbd聚集了文化产业人群，郊区和城中村让不少进城打工的农民工有可以让自己承担的起的歇脚的地方。所有的这些人都认同了这个城市的规则，每个人又在自然的遵守它。但是在换一个城市，比如香港，过去是一个国际化的都市极其包容，现在由于一些原因开始对大陆很排外，它同样拥有和北京一样的服务组织，但是它的一部分人群发生了变化并拥有了影响力导致了城市文化发生了变化，硬件设施并没有改变，但是软件发生了很大变化，新来的人要么融入其中要么被迫离开，归根到底还是人的因素起作用。人从来就不是理性的动物，环境是可以改变人的行为，要么让新来的人融入这个群体并被这个群体接纳，文化继续延续(b站比较类似），要么大家各取所需<strong>互不干扰</strong>（互不干扰很重要，youtube可能比较类似，就像北京，极其广博但都能相安无事各有各的空间大家各玩各的谁也别妨碍了谁），比较惨烈的就是社群的既存在者和后来者发生了冲突，谁都无法同化另一方，使得其中一方开始退出寻找新的认同圈子，知乎今天的样子可能比较像，原本就像一个大学，几个人正在热情的讨论科学与民主，突然冒进一群广场舞大妈大爷，说的都是隔壁老王偷了张三的枣西边的王二麻子踩了隔壁老王的脚而且嗓门贼大压的科学民主没了音，这还怎么玩</p><hr><p>END</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 社区氛围 </tag>
+            
+            <tag> 社区运营 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>用户为什么要加入社群？来自行业其他产品的研究</title>
       <link href="/2020/02/27/yong-hu-wei-shi-me-yao-jia-ru-ge-chong-qi-qi-guai-guai-de-qun-zu/"/>
       <url>/2020/02/27/yong-hu-wei-shi-me-yao-jia-ru-ge-chong-qi-qi-guai-guai-de-qun-zu/</url>
@@ -260,7 +281,7 @@
       <link href="/2020/02/17/zhe-shi-yi-ge-shen-mi-de-bo-ke/"/>
       <url>/2020/02/17/zhe-shi-yi-ge-shen-mi-de-bo-ke/</url>
       
-        <content type="html"><![CDATA[<p>这是一个来自神秘东方的博客，有一个叫业哥的人在这里胡说八道。他会赋予你神秘的力，你将学会量子波动速读法产品经理从入门到神棍JAVA7天入门到放弃中年人生发50讲以及互联网人的终极职业开快车</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<blockquote><p> 这是一个来自神秘东方的博客，有一个叫业哥的人在这里胡说八道。他会赋予你神秘的力，你将学会量子波动速读法产品经理从入门到神棍JAVA7天入门到放弃中年人生发50讲以及互联网人的终极职业开快车</p><p>这一段纯属瞎扯淡</p></blockquote><p>由于过去多年前在不靠谱的小虚拟主机上搭建了自己的博客，后来虚拟主机公司跑路，致使我多年的博客全部消失殆尽无法找回，博客之路自此也断了。</p><p>后来巧合发现了hexo 静态博客系统，直接部署在github托管，既安全，甚至连服务器费用都免了，兴起，部署搭建一套自己的博客系统，重新开始博客之路。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
       <categories>
