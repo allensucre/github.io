@@ -45,20 +45,19 @@
   </entry>
   
   <entry>
-    <title>社区启示录1:把用户当人看</title>
+    <title>社区启示录:尊重用户，尊重常识</title>
     <link href="http://allensucre.github.io/2020/02/26/she-qu-qi-shi-lu-yi/"/>
     <id>http://allensucre.github.io/2020/02/26/she-qu-qi-shi-lu-yi/</id>
     <published>2020-02-26T15:17:20.000Z</published>
-    <updated>2020-02-26T15:36:42.923Z</updated>
+    <updated>2020-02-27T05:07:00.814Z</updated>
     
-    <content type="html"><![CDATA[<p>先看一段视频奇葩说第六季关于事和人的关系</p><p> <a href="https://www.iqiyi.com/v_19rw6u07as.html?list=19rra9dw7i#curid=11292245400_1c8e55fb8413ec99ae2de16a670993d8" target="_blank" rel="noopener">https://www.iqiyi.com/v_19rw6u07as.html?list=19rra9dw7i#curid=11292245400_1c8e55fb8413ec99ae2de16a670993d8</a></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    <content type="html"><![CDATA[<p>奇葩说之前有一期，讲对事不对人的讨论，马东老师最后在点评的时候，讲了他自己的看法，马东老师的点评非常深刻，其中有几个点很有趣：事指的人和人的关系，事大于人，没有人就没有事，讨论事的时候，是在讨论人和人的关系。马老师这段话当然不是指社区的，但是恰好又是做社区所应该理解的，所谓的社区产品，一定是研究人的产品，与其他工具，SAAS等各种产品相比，社区产品要求产品经理对用户的洞察和理解要求更高。</p><p>视频地址：</p><p> <a href="https://www.iqiyi.com/v_19rw6u07as.html?list=19rra9dw7i#curid=11292245400_1c8e55fb8413ec99ae2de16a670993d8" target="_blank" rel="noopener">https://www.iqiyi.com/v_19rw6u07as.html?list=19rra9dw7i#curid=11292245400_1c8e55fb8413ec99ae2de16a670993d8</a></p><p>市面上很多培训产品经理的课程，产品经理能不能培训出来，也是有不少人讨论。其实产品经理能够培训的，其实都是一些基础工具的应用和一些基础方法的认识。每个人都去学了一样的知识，掌握了一样的工具，但是做出的产品却千差万别；归根到底，掌握了工具和知识，并不能让你成为一个牛X的产品经理，一个好的产品经理，首先是要尊重常识，具有同理心，而尊重常识具备同理心，是无法培训的，是先天养成和你所经历的生活造就的。从这一点来讲，产品经理的确是要拼一定的天赋，如果你的天赋够好，后天的技能和学习让你更上一层楼，如果底子不够好，经过学习之后也能让你成为一个能干事的产品经理。</p><p>社区</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;先看一段视频奇葩说第六季关于事和人的关系&lt;/p&gt;
-&lt;p&gt; &lt;a href=&quot;https://www.iqiyi.com/v_19rw6u07as.html?list=19rra9dw7i#curid=11292245400_1c8e55fb8413ec99ae2de16a6
+        &lt;p&gt;奇葩说之前有一期，讲对事不对人的讨论，马东老师最后在点评的时候，讲了他自己的看法，马东老师的点评非常深刻，其中有几个点很有趣：事指的人和人的关系，事大于人，没有人就没有事，讨论事的时候，是在讨论人和人的关系。马老师这段话当然不是指社区的，但是恰好又是做社区所应该理解的，所谓
       
     
     </summary>
