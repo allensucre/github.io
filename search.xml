@@ -110,35 +110,6 @@
     
     
     <entry>
-      <title>复盘社区发展</title>
-      <link href="/2020/02/27/nei-rong-she-qu-chan-pin-de-ji-chu-luo-ji/"/>
-      <url>/2020/02/27/nei-rong-she-qu-chan-pin-de-ji-chu-luo-ji/</url>
-      
-        <content type="html"><![CDATA[<p>对于内容产品或者社区产品来讲，由于涉及的链条庞杂，很多产品经理无从下手，往往东一榔头西一锤子。由于我做过这类产品一段时间，所以分享一下我在这方面的一些心得与总结。</p><h3 id="内容社区产品的基础逻辑"><a href="#内容社区产品的基础逻辑" class="headerlink" title="内容社区产品的基础逻辑"></a>内容社区产品的基础逻辑</h3><h3 id="B-MAT-理论，动机，能力，触发，至少提高50"><a href="#B-MAT-理论，动机，能力，触发，至少提高50" class="headerlink" title="B=MAT 理论，动机，能力，触发，至少提高50%"></a>B=MAT 理论，动机，能力，触发，至少提高50%</h3><h3 id="高科技产品、内容产品的营销推广理论"><a href="#高科技产品、内容产品的营销推广理论" class="headerlink" title="高科技产品、内容产品的营销推广理论"></a>高科技产品、内容产品的营销推广理论</h3><h3 id="分组和营销的重要性："><a href="#分组和营销的重要性：" class="headerlink" title="分组和营销的重要性："></a>分组和营销的重要性：</h3><ul><li>不要试图满足所有人需求，而是满足一部分人的需求，或者让一部分人先兴奋起来，然后在推向全部市场</li></ul><h3 id="产品竞争的逻辑"><a href="#产品竞争的逻辑" class="headerlink" title="产品竞争的逻辑"></a>产品竞争的逻辑</h3><p>后发者如何做？</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
-      <categories>
-          
-          <category> 产品实战 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 社区产品 </tag>
-            
-            <tag> 内容产品 </tag>
-            
-            <tag> 产品策略 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>当你在做社区时，你可以从实体社区的建设中学到什么？</title>
       <link href="/2020/02/27/ni-cong-shi-ti-she-qu-de-jian-she-zhong-ke-yi-xue-dao-shi-me/"/>
       <url>/2020/02/27/ni-cong-shi-ti-she-qu-de-jian-she-zhong-ke-yi-xue-dao-shi-me/</url>
