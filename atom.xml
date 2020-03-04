@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://allensucre.github.io/"/>
-  <updated>2020-02-28T14:43:58.506Z</updated>
+  <updated>2020-03-04T12:42:49.111Z</updated>
   <id>http://allensucre.github.io/</id>
   
   <author>
@@ -15,6 +15,55 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>bussinessmodlecanvas</title>
+    <link href="http://allensucre.github.io/2020/03/04/bussinessmodlecanvas/"/>
+    <id>http://allensucre.github.io/2020/03/04/bussinessmodlecanvas/</id>
+    <published>2020-03-04T12:39:35.000Z</published>
+    <updated>2020-03-04T12:42:49.111Z</updated>
+    
+    <content type="html"><![CDATA[<p>/Users/sunliye/Documents/blog/source/images/model canvas.png</p><p><img src="/Users/sunliye/Documents/blog/source/images/model%20canvas.png" alt=""></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;/Users/sunliye/Documents/blog/source/images/model canvas.png&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/Users/sunliye/Documents/blog/source/images/model%20canvas.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>canvas</title>
+    <link href="http://allensucre.github.io/2020/03/04/canvas/"/>
+    <id>http://allensucre.github.io/2020/03/04/canvas/</id>
+    <published>2020-03-04T12:38:45.000Z</published>
+    <updated>2020-03-04T12:38:57.247Z</updated>
+    
+    <content type="html"><![CDATA[<script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>数据增长实战策略</title>
