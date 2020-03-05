@@ -4,32 +4,21 @@
   
     
     <entry>
-      <title>bussinessmodlecanvas</title>
+      <title>在线教育bussiness model</title>
       <link href="/2020/03/04/bussinessmodlecanvas/"/>
       <url>/2020/03/04/bussinessmodlecanvas/</url>
       
-        <content type="html"><![CDATA[<p><img src="https://tva1.sinaimg.cn/large/00831rSTgy1gci7jp068dj30u0123auk.jpg" alt=""></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<p>一张图就可以总结出目前在线教育行业所有相关核心因素，万变不离其宗。</p><p><img src="https://tva1.sinaimg.cn/large/00831rSTgy1gci7jp068dj30u0123auk.jpg" alt=""></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
       
         <tags>
             
+            <tag> 在线教育 </tag>
+            
             <tag> 商业模式 </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>canvas</title>
-      <link href="/2020/03/04/canvas/"/>
-      <url>/2020/03/04/canvas/</url>
-      
-        <content type="html"><![CDATA[<script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
       
     </entry>
     
