@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://allensucre.github.io/"/>
-  <updated>2020-03-06T09:21:27.073Z</updated>
+  <updated>2020-03-06T06:28:49.915Z</updated>
   <id>http://allensucre.github.io/</id>
   
   <author>
@@ -15,28 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>book</title>
-    <link href="http://allensucre.github.io/2020/03/06/book/"/>
-    <id>http://allensucre.github.io/2020/03/06/book/</id>
-    <published>2020-03-06T09:20:33.000Z</published>
-    <updated>2020-03-06T09:21:27.073Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>{% pdf https://github.com/allensucre/file/blob/master/%E7%BE%8E%E5%9B%A2%E6%96%B0%E4%B8%9A%E5%8A%A1%E6%8E%A2%E7%B4%A2%E7%AC%94%E8%AE%B0%7C42%E7%AB%A0%E7%BB%8F%E6%A0%A1%E5%8F%8B%E4%BC%9A.pdf %}</code></pre><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;pre&gt;&lt;code&gt;{% pdf https://github.com/allensucre/file/blob/master/%E7%BE%8E%E5%9B%A2%E6%96%B0%E4%B8%9A%E5%8A%A1%E6%8E%A2%E7%B4%A2%E7%AC%94%E8
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
   
   <entry>
     <title>如何评估一个产品机会</title>
