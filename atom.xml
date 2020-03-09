@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://allensucre.github.io/"/>
-  <updated>2020-03-06T06:28:49.915Z</updated>
+  <updated>2020-03-08T14:48:11.198Z</updated>
   <id>http://allensucre.github.io/</id>
   
   <author>
@@ -17,11 +17,42 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>quora天才的般的产品架构</title>
+    <link href="http://allensucre.github.io/2020/03/08/wen-da-lei-she-qu/"/>
+    <id>http://allensucre.github.io/2020/03/08/wen-da-lei-she-qu/</id>
+    <published>2020-03-08T12:37:16.000Z</published>
+    <updated>2020-03-08T14:48:11.198Z</updated>
+    
+    <content type="html"><![CDATA[<p> 做了内容社区产品一阵子之后，在回顾问答类产品，尤其是qoura 的产品架构和运营策略，简直堪称天才的设计。</p><p>从内容的角度来看，UGC问答进行内容生产，topic+推荐算法进行内容的分发，更为关键的是，问答社区的内容是具有较长时效性的，甚至很久之后再看仍然不过时，具备长期的内容价值，这与twitter 非常不一样。</p><p>其实如果只是做到这一步并不可能形成一个优秀的产品架构，通过问答来促进回答者贡献自己的知识，架构当然非常好，实际上在此之前已经有了一些问答的产品。对于UGC产品，怎样形成一个让用户愿意在这里进行内容生产那，内容阅读才是整个问题的关键。quora 通过问答的形式来降低了内容生产的门槛，更重要的是，与过去以往的问答产品不同，quora 借鉴了twitter和facebook 等的社交机制，每个人有自己的个人主页，对问题的回答就是最好的社交名片，当我对一个问题认真回答之后，收获的是满满的激励，赞&amp;评论，以及关注，以及关注之后的notice 机制，非常高级的解决了用户的激励。在我看来这是社区产品最高级的激励体系，而不是像很多产品谈到激励时，就要上积分或者实物奖励。</p><p>内容生产与内容消费+传播之间通过互动关系进行关联和激励，随着社区发展，内容消费者也会被带动向内容生产者进行转变，从而保证了社区持续的内容贡献。</p><p>对于牛X的产品必然要先具备良好的产品架构，其次要具备很好的运营能力。在这方面quora和知乎如出一辙，通过邀请机制来定义第一批的核心用户，确定社区的氛围调性（社区的氛围调性往往不是你有什么，而是你不做什么），从市场传播机制来讲，用户群体的拓展是跨越式的，存在阶层的。第一批有影响力的用户入驻，可以定义为KOL，依靠他们的影响力+贡献，奠定了产品的内容调性和第二阶层（普通大众+粉丝用户群体）的入驻，实现社区用户的持续扩大。</p><p>而由于内容的高价值和长失效，此类产品天生的对搜索引擎友好，简直是流量黑洞，搜索引擎收录高价值的内容，必然带来源源不断的用户。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt; 做了内容社区产品一阵子之后，在回顾问答类产品，尤其是qoura 的产品架构和运营策略，简直堪称天才的设计。&lt;/p&gt;
+&lt;p&gt;从内容的角度来看，UGC问答进行内容生产，topic+推荐算法进行内容的分发，更为关键的是，问答社区的内容是具有较长时效性的，甚至很久之后再看仍然不过
+      
+    
+    </summary>
+    
+    
+      <category term="产品实战" scheme="http://allensucre.github.io/categories/%E4%BA%A7%E5%93%81%E5%AE%9E%E6%88%98/"/>
+    
+    
+      <category term="内容社区" scheme="http://allensucre.github.io/tags/%E5%86%85%E5%AE%B9%E7%A4%BE%E5%8C%BA/"/>
+    
+      <category term="激励设计" scheme="http://allensucre.github.io/tags/%E6%BF%80%E5%8A%B1%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="产品架构" scheme="http://allensucre.github.io/tags/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84/"/>
+    
+  </entry>
+  
+  <entry>
     <title>如何评估一个产品机会</title>
     <link href="http://allensucre.github.io/2020/03/06/chuang-ye-xiang-mu-de-ping-gu/"/>
     <id>http://allensucre.github.io/2020/03/06/chuang-ye-xiang-mu-de-ping-gu/</id>
     <published>2020-03-06T05:01:38.000Z</published>
-    <updated>2020-03-06T06:28:49.915Z</updated>
+    <updated>2020-03-08T15:11:28.325Z</updated>
     
     <content type="html"><![CDATA[<p>  对于一个产品机会的评估往往是多方面并且是极为复杂的一项工程。不同的产品类型，要评估的侧重点也差别非常大。产品评估或者创业评存在一定的通用方法，但是由于行业的不同和产品的不同，往往还需要结合比较多自己领域的特性来组合评估。过去随着互联网的迅猛发展，创业者草莽式的打法也有很大机会，今天的形式可能比过去更严峻，创业者面临的竞争和市场的变化越来越残酷，在真正开始搞事情之前，掌握一些基础的方法还是非常重要的。</p><p>不同的书籍和作者，提出的评估方法并不一样，有共性有差别，一般谈及产品idea的时候大家都会提商业模式，商业模式画布算是比较知名的一种方法。我也有用过商业模式画布去分析问题，但是在这里我更想提另外几种方法，所谓的方法其实都是一系列why的汇总。 《启示录》中的评估和前阿里巴巴卫哲的一个案例我认为值得产品经理或者创业者去了解。</p><h3 id="《启示录》-关于评估产品机会需要回答的问题"><a href="#《启示录》-关于评估产品机会需要回答的问题" class="headerlink" title="《启示录》 关于评估产品机会需要回答的问题"></a>《启示录》 关于评估产品机会需要回答的问题</h3><p>1 产品要解决什么问题  （产品价值）<br>2 为谁解决这个问题     （目标市场）<br>3 成功的机会有多大  （市场规模）<br>4 怎样判断产品成功与否  （度量指标或收益指标）<br>5 有哪些同类产品  （竞争格局）<br>6 为什么我们最适合做这个产品  （竞争优势）<br>7 时机合适吗 （市场时机）<br>8 如何把产品推向市场（营销组合策略）<br>9 成功的必要条件是什么？ （解决方案要满足的条件）<br>10 根据以上问题，给出评估结论 （继续活着放弃）</p><h3 id="卫哲的3-1思考法"><a href="#卫哲的3-1思考法" class="headerlink" title="卫哲的3+1思考法"></a>卫哲的3+1思考法</h3><p>卫哲的3+1思考法是来自于网络一篇文章。原文在这里  卫哲的3+1思考法：测量项目“靠谱程度”](<a href="https://www.douban.com/group/topic/19005924/" target="_blank" rel="noopener">https://www.douban.com/group/topic/19005924/</a>)</p><p>我看了之后觉得非常有道理。摘抄如下</p><blockquote><p>3：<br>需求是从哪里来的？目标客户是谁？<br>有多少人有这样的需求？这个需求紧迫吗？<br>他们的痛是什么？场景是什么？（用产品之前/之后）</p><p>+1：<br>解决之后在网站数据上会有什么表现？</p><p>前3个问题能够帮我们切入问题的本质，引发更多的思考，后一个问题让我们思考到底要什么样的结果，如何衡量。</p></blockquote><p>启示录中关于产品评估时要思考的问题更多，对于一个非初创型的产品或者一个正在稳步发展功能迭代的产品，如果只是小功能的迭代，不需要每次都考虑，但是对于一个正在较大项目的立项或者独立产品的立项，这些问题是都需要回答的。</p><p>卫哲的3+1在产品经理的成长过程中应该更具实际效果，无论需求大小，每次都需要对自己问一遍，应该是非常实用且必备的问题了，每次在做新需求之前问一下自己这几个问题，相信可以毙掉一大批不靠谱的需求。</p><p>关于卫哲的第二个问题“有多少人有这样的需求？这个需求紧迫吗？” ，随着工作经验的增长，有了更多机会来全局掌控一个产品的时候，对这个问题的认识也越来越深刻。一个产品或者企业，之所以能很好的活着，不在于他堆砌了一个个功能或者一个个产品，实际上往往只来源于做对了几件事。这几件事的成功让这个企业或者产品能够很好地立足，其他的更多在基础上添砖添瓦，甚至是瞎折腾，但是不影响大局，或者说尝试和失败的成功都可以接受。需求的紧迫程度也一个需求是否要加入到执行迭代中也必须去问自己的问题，要知道公司的资源永远是有限的，而需求是可以无限提出的。一个客户端产品，如果资源充沛的话，一两个月一个比较大的里程碑版本，一年其实也就五六次机会让你尝试而已。成功了继续做下去，不成功机会就白白浪费了，甚至窗口期有错过了。</p><p>对于启示录中的几个问题，看着只是几个小问题，实际背后有非常多衍生出来的需要你去回答的问题。</p><p>例如评估商业机会</p><ul><li><p>需要评估商业模式，你需要评测市场吸引力需要如何评测</p></li><li><p>目标细分市场的利益和吸引力</p></li><li><p>与价值链上下游以及与行业横向价值链的关系网络</p></li><li><p>行业吸引力</p></li><li><p>执行关键成功要素的能力</p></li><li><p>竞争可持续性和经济持续性等等</p></li></ul><p>例如营销策略，高科技产品的营销策略如何做？社区产品的运营策略如何？</p><p>看起来只是几个问题，但是背后来支持你做分析和判断，可能需要更多的知识和经验的总结。</p><p>最后推荐几本书吧</p><ul><li>启示录：对于高阶一些的产品经理大家都应该看一下这本书，比较经典而且没有废话</li><li>跨越鸿沟：这本书对针对高科技产品的营销策略，但是对于所有的产品都有参考意义。尤其是对于市场用户的划分很有借鉴意义。</li><li>如何测试商业模式：这本书总结了一个创业前评估商业模式的模型，从市场领域，行业领域，宏观层面，微观层面，以及团队自身来帮助你梳理你的创业项目，对于没有经历过专业商业学习的产品经理很有补充意义。</li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
@@ -34,6 +65,8 @@
     
     </summary>
     
+    
+      <category term="创业" scheme="http://allensucre.github.io/categories/%E5%88%9B%E4%B8%9A/"/>
     
     
       <category term="创业" scheme="http://allensucre.github.io/tags/%E5%88%9B%E4%B8%9A/"/>
