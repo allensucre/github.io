@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://allensucre.github.io/"/>
-  <updated>2020-03-11T14:00:01.654Z</updated>
+  <updated>2020-03-13T06:00:55.507Z</updated>
   <id>http://allensucre.github.io/</id>
   
   <author>
@@ -15,6 +15,41 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>抖音快手体验</title>
+    <link href="http://allensucre.github.io/2020/03/13/dou-yin-kuai-shou-ti-yan/"/>
+    <id>http://allensucre.github.io/2020/03/13/dou-yin-kuai-shou-ti-yan/</id>
+    <published>2020-03-13T05:50:55.000Z</published>
+    <updated>2020-03-13T06:00:55.507Z</updated>
+    
+    <content type="html"><![CDATA[<p>抖音和快手的体验</p><p>抖音的精致和快手的真实</p><ul><li><p>抖音：哇，这个小姐姐好看，这个美女身材太棒了，这个太卡哇伊了，真是个五彩缤纷的世界呀，别人家的生活怎么能这么精致</p></li><li><p>快手：嗯，这才是正常人，怎么可能都那么美，抖音虚假，快手才真实。有大妈有大爷有老铁有白领有村花，这才是自己身边的生活</p></li></ul><p>抖音像鸦片，虚幻的美丽，容易上瘾；快手像杂技，老铁们也有一技之长；</p><ul><li>抖音：哇，这个小姐姐太美了，这个也很美，刷了几个之后，已经记不起前面那一个的美了。嗯，虽然你很美，但是我在刷两个就会把你忘记，就是这么快，哥是你永远都得不到的男人</li><li>快手：嗨，这个老铁有点意思哈，哈哈，这个老铁也挺逗，给我留下了深刻的印象。但是我还是忘不了前面那个老铁。<br>总结：过于美好和不切实际的美丽总是虚幻的，像吸大麻一样；</li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;抖音和快手的体验&lt;/p&gt;
+&lt;p&gt;抖音的精致和快手的真实&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;抖音：哇，这个小姐姐好看，这个美女身材太棒了，这个太卡哇伊了，真是个五彩缤纷的世界呀，别人家的生活怎么能这么精致&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;快手：嗯，这才是正常人，怎么可能都那么
+      
+    
+    </summary>
+    
+    
+      <category term="产品体验" scheme="http://allensucre.github.io/categories/%E4%BA%A7%E5%93%81%E4%BD%93%E9%AA%8C/"/>
+    
+    
+      <category term="抖音" scheme="http://allensucre.github.io/tags/%E6%8A%96%E9%9F%B3/"/>
+    
+      <category term="快手" scheme="http://allensucre.github.io/tags/%E5%BF%AB%E6%89%8B/"/>
+    
+      <category term="运营" scheme="http://allensucre.github.io/tags/%E8%BF%90%E8%90%A5/"/>
+    
+  </entry>
   
   <entry>
     <title>一些碎片的思考</title>

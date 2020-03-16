@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>抖音快手体验</title>
+      <link href="/2020/03/13/dou-yin-kuai-shou-ti-yan/"/>
+      <url>/2020/03/13/dou-yin-kuai-shou-ti-yan/</url>
+      
+        <content type="html"><![CDATA[<p>抖音和快手的体验</p><p>抖音的精致和快手的真实</p><ul><li><p>抖音：哇，这个小姐姐好看，这个美女身材太棒了，这个太卡哇伊了，真是个五彩缤纷的世界呀，别人家的生活怎么能这么精致</p></li><li><p>快手：嗯，这才是正常人，怎么可能都那么美，抖音虚假，快手才真实。有大妈有大爷有老铁有白领有村花，这才是自己身边的生活</p></li></ul><p>抖音像鸦片，虚幻的美丽，容易上瘾；快手像杂技，老铁们也有一技之长；</p><ul><li>抖音：哇，这个小姐姐太美了，这个也很美，刷了几个之后，已经记不起前面那一个的美了。嗯，虽然你很美，但是我在刷两个就会把你忘记，就是这么快，哥是你永远都得不到的男人</li><li>快手：嗨，这个老铁有点意思哈，哈哈，这个老铁也挺逗，给我留下了深刻的印象。但是我还是忘不了前面那个老铁。<br>总结：过于美好和不切实际的美丽总是虚幻的，像吸大麻一样；</li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 产品体验 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 抖音 </tag>
+            
+            <tag> 快手 </tag>
+            
+            <tag> 运营 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>一些碎片的思考</title>
       <link href="/2020/03/11/yi-xie-sui-pian-de-si-kao/"/>
       <url>/2020/03/11/yi-xie-sui-pian-de-si-kao/</url>
