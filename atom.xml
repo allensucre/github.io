@@ -56,7 +56,7 @@
     <link href="http://allensucre.github.io/2020/03/11/yi-xie-sui-pian-de-si-kao/"/>
     <id>http://allensucre.github.io/2020/03/11/yi-xie-sui-pian-de-si-kao/</id>
     <published>2020-03-11T13:33:16.000Z</published>
-    <updated>2020-03-11T14:00:01.654Z</updated>
+    <updated>2020-03-11T14:00:32.734Z</updated>
     
     <content type="html"><![CDATA[<p>一些碎片的思考</p><ul><li><p>产品的扩张和长大，有很大的运气成分。但是运气成分却往往被很多人有意无意的遗漏掉，认为只要努力就能成功，这是错误的。</p></li><li><p>大多数产品在市场里的扩张，并不是连续性的，而是存在阶层人群的跨越，认识到用户分组或者用户分层这个概念很重要。</p></li><li><p>去年研究了很多项目，包括一些看起来能赚点小钱的的小项目，总结的一个教训就是，项目看起来很小，实际上付出的精力并不比做一个大项目付出的精力小，所以如果创业还是选个有野心点的方向</p></li><li><p>写作和分享，一直都是学习最好的方式之一，也是帮助你建立额外影响力最好的方式之一</p></li><li><p>deadline 永远是第一生产力，不要低估人的惰性</p></li><li><p>看闲书可以无目的的看，如果是针对职场的学习成长，按照解决问题的方式去学习才是最有效的方法</p></li><li><p>对一件事情思考透彻，比狼吞虎咽的看100篇分析文章都有用</p></li><li><p>任何产品策略在设计的时候，都至少应该问自己5个为什么，直到无法在问</p></li><li><p>做事情贵在坚持，每天一点点的坚持比无计划的冒进要好太多，虽然有时候看起来短平快更有效果</p></li><li><p>时间很宝贵，对自己宝贵，对所负责的产品也很宝贵，窗口期永远是短暂的</p></li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
@@ -195,7 +195,7 @@
     <link href="http://allensucre.github.io/2020/02/17/zhe-shi-yi-ge-shen-mi-de-bo-ke/"/>
     <id>http://allensucre.github.io/2020/02/17/zhe-shi-yi-ge-shen-mi-de-bo-ke/</id>
     <published>2020-02-17T09:16:30.000Z</published>
-    <updated>2020-03-11T03:39:51.904Z</updated>
+    <updated>2020-03-11T03:53:17.178Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p> 这是一个来自神秘东方的博客，有一个叫业哥的人在这里胡说八道。他会赋予你神秘的力，你将学会量子波动速读法产品经理从入门到神棍JAVA7天入门到放弃中年人生发50讲以及互联网人的终极职业开快车</p><p>这一段纯属瞎扯淡</p></blockquote><p>由于过去多年前在不靠谱的小虚拟主机上搭建了自己的博客，后来虚拟主机公司跑路，致使我多年的博客全部消失殆尽无法找回，博客之路自此也断了。</p><p>后来巧合发现了hexo 静态博客系统，直接部署在github托管，既安全，甚至连服务器费用都免了，兴起，部署搭建一套自己的博客系统，重新开始博客之路。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
@@ -303,9 +303,9 @@
     
       <category term="社区" scheme="http://allensucre.github.io/tags/%E7%A4%BE%E5%8C%BA/"/>
     
-      <category term="产品策略" scheme="http://allensucre.github.io/tags/%E4%BA%A7%E5%93%81%E7%AD%96%E7%95%A5/"/>
-    
       <category term="UGC" scheme="http://allensucre.github.io/tags/UGC/"/>
+    
+      <category term="产品策略" scheme="http://allensucre.github.io/tags/%E4%BA%A7%E5%93%81%E7%AD%96%E7%95%A5/"/>
     
       <category term="社区氛围建设" scheme="http://allensucre.github.io/tags/%E7%A4%BE%E5%8C%BA%E6%B0%9B%E5%9B%B4%E5%BB%BA%E8%AE%BE/"/>
     
@@ -501,9 +501,9 @@
     
     
     
-      <category term="在线教育" scheme="http://allensucre.github.io/tags/%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2/"/>
-    
       <category term="商业模式" scheme="http://allensucre.github.io/tags/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F/"/>
+    
+      <category term="在线教育" scheme="http://allensucre.github.io/tags/%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2/"/>
     
   </entry>
   
