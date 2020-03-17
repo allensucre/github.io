@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>从底层拆解知识付费与在线教育的差别</title>
+      <link href="/2020/03/17/zai-xian-jiao-yu-yu-zhi-shi-fu-fei/"/>
+      <url>/2020/03/17/zai-xian-jiao-yu-yu-zhi-shi-fu-fei/</url>
+      
+        <content type="html"><![CDATA[<p>关键因素分析</p><p><img src="https://raw.githubusercontent.com/allensucre/imgblog2/master/img/%E5%85%B3%E9%94%AE%E5%9B%A0%E7%B4%A0.png" alt=""></p><p> 内容方式差别</p><p><img src="https://raw.githubusercontent.com/allensucre/imgblog2/master/img/%E5%86%85%E5%AE%B9%E6%96%B9%E5%BC%8F%E5%B7%AE%E5%88%AB.png" alt=""></p><p>原创模型：三大因素拆解教育与知识付费</p><p><img src="https://raw.githubusercontent.com/allensucre/imgblog2/master/img/%E4%B8%89%E5%A4%A7%E5%9B%A0%E7%B4%A0%E6%8B%86%E8%A7%A3%E7%9F%A5%E8%AF%86%E4%BB%98%E8%B4%B9%E4%B8%8E%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2.png" alt=""></p><p>如何应用模型进行分析</p><p><img src="https://raw.githubusercontent.com/allensucre/imgblog2/master/img/%E5%A6%82%E4%BD%95%E5%BA%94%E7%94%A8%E6%A8%A1%E5%9E%8B.png" alt=""></p><p>教育与知识付费主要玩家的差别</p><p><img src="https://raw.githubusercontent.com/allensucre/imgblog2/master/img/%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E5%88%86%E6%9E%90.png" alt=""></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 产品实战 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 在线教育 </tag>
+            
+            <tag> 知识付费 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>抖音快手体验</title>
       <link href="/2020/03/13/dou-yin-kuai-shou-ti-yan/"/>
       <url>/2020/03/13/dou-yin-kuai-shou-ti-yan/</url>
