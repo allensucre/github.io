@@ -5,13 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="keywords" content="总结复盘, 产品经理，运营，运营经理，增长黑客，互联网，社会百态，商业模型，科技">
-    <meta name="description" content="基础信息自我介绍社区社区的产品策略
-社区的运营策略
-社区的数据
-游戏与互动猜电影
-内容产品影视头条视频产品
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forE">
+    <meta name="description" content="no summary">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -272,19 +266,118 @@
 
 
 
-<main class="container content">
+<main class="post-container content">
 
     
-    <!-- 文章内容详情 -->
+    <link rel="stylesheet" href="/libs/tocbot/tocbot.css">
+<style>
+    #articleContent h1::before,
+    #articleContent h2::before,
+    #articleContent h3::before,
+    #articleContent h4::before,
+    #articleContent h5::before,
+    #articleContent h6::before {
+        display: block;
+        content: " ";
+        height: 100px;
+        margin-top: -100px;
+        visibility: hidden;
+    }
+
+    #articleContent :focus {
+        outline: none;
+    }
+
+    .toc-fixed {
+        position: fixed;
+        top: 64px;
+    }
+
+    .toc-widget {
+        width: 345px;
+        padding-left: 20px;
+    }
+
+    .toc-widget .toc-title {
+        margin: 35px 0 15px 0;
+        padding-left: 17px;
+        font-size: 1.5rem;
+        font-weight: bold;
+        line-height: 1.5rem;
+    }
+
+    .toc-widget ol {
+        padding: 0;
+        list-style: none;
+    }
+
+    #toc-content {
+        height: calc(100vh - 250px);
+        overflow: auto;
+    }
+
+    #toc-content ol {
+        padding-left: 10px;
+    }
+
+    #toc-content ol li {
+        padding-left: 10px;
+    }
+
+    #toc-content .toc-link:hover {
+        color: #42b983;
+        font-weight: 700;
+        text-decoration: underline;
+    }
+
+    #toc-content .toc-link::before {
+        background-color: transparent;
+        max-height: 25px;
+    }
+
+    #toc-content .is-active-link {
+        color: #42b983;
+    }
+
+    #toc-content .is-active-link::before {
+        background-color: #42b983;
+    }
+
+    #floating-toc-btn {
+        position: fixed;
+        right: 15px;
+        bottom: 76px;
+        padding-top: 15px;
+        margin-bottom: 0;
+        z-index: 998;
+    }
+
+    #floating-toc-btn .btn-floating {
+        width: 48px;
+        height: 48px;
+    }
+
+    #floating-toc-btn .btn-floating i {
+        line-height: 48px;
+        font-size: 1.4rem;
+    }
+</style>
+<div class="row">
+    <div id="main-content" class="col s12 m12 l9">
+        <!-- 文章内容详情 -->
 <div id="artDetail">
     <div class="card">
         <div class="card-content article-info">
             <div class="row tag-cate">
                 <div class="col s7">
                     
-                          <div class="article-tag">
-                            <span class="chip bg-color">无标签</span>
-                          </div>
+                    <div class="article-tag">
+                        
+                            <a href="/tags/%E4%B8%AA%E4%BA%BA%E6%80%BB%E7%BB%93/">
+                                <span class="chip bg-color">个人总结</span>
+                            </a>
+                        
+                    </div>
                     
                 </div>
                 <div class="col s5 right-align">
@@ -296,7 +389,7 @@
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-minus fa-fw"></i>发布日期:&nbsp;&nbsp;
-                    2020-05-21
+                    2019-01-21
                 </div>
                 
 
@@ -305,7 +398,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    101
+                    483
                 </div>
                 
 
@@ -323,11 +416,15 @@
         <hr class="clearfix">
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <h2 id="基础信息"><a href="#基础信息" class="headerlink" title="基础信息"></a>基础信息</h2><h3 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h3><h2 id="社区"><a href="#社区" class="headerlink" title="社区"></a>社区</h2><p>社区的产品策略</p>
+                <h2 id="基础信息"><a href="#基础信息" class="headerlink" title="基础信息"></a>基础信息</h2><h3 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h3><p>那我先自我介绍一下，我12年毕业正式开始做产品，到目前工作经验8年+，以内容和文娱产品的工作经验较多，（我自己有时候也会在知乎回答个问题，7万的赞同，2万6的答案收藏）。有两年做在线教育这种逆人性的产品，看起来这两类产品有些冲突一类顺人性一类逆人性，但是我从这两类不同的研究让我对产品有了更深的认识，包括对游戏化等方法研究和运用。自己对于这个岗位非常感兴趣，第一个坚定看好短视频类产品的未来发展（如果放长远一点看，除非5G对视频技术产生了更大的冲突，否则短视频是最适合目前移动互联网环境的碎片使用） 2 copyfromchina到海外方向我非常看好。我平时的爱好拍拍照，玩玩游戏，看看电影和书。</p>
+<p>我目前离职的最主要原因在于时光网过去两年的整合不太好，今年组织架构调整已经彻底变为外包化，这与我个人对产品经理的定义和未来的职场发展有很大冲突，所以就选择离职</p>
+<h3 id="细节"><a href="#细节" class="headerlink" title="细节"></a>细节</h3><h2 id="时光网"><a href="#时光网" class="headerlink" title="时光网"></a>时光网</h2><h3 id="社区"><a href="#社区" class="headerlink" title="社区"></a>社区</h3><p>社区产品这两年做的事情：</p>
+<p>社区的产品策略</p>
 <p>社区的运营策略</p>
 <p>社区的数据</p>
-<h2 id="游戏与互动"><a href="#游戏与互动" class="headerlink" title="游戏与互动"></a>游戏与互动</h2><p>猜电影</p>
-<h2 id="内容产品"><a href="#内容产品" class="headerlink" title="内容产品"></a>内容产品</h2><h3 id="影视头条"><a href="#影视头条" class="headerlink" title="影视头条"></a>影视头条</h3><h3 id="视频产品"><a href="#视频产品" class="headerlink" title="视频产品"></a>视频产品</h3><script>
+<h3 id="游戏与互动"><a href="#游戏与互动" class="headerlink" title="游戏与互动"></a>游戏与互动</h3><p>猜电影</p>
+<h3 id="内容产品"><a href="#内容产品" class="headerlink" title="内容产品"></a>内容产品</h3><p>内容产品我这3年做的事情包括</p>
+<h3 id="影视头条"><a href="#影视头条" class="headerlink" title="影视头条"></a>影视头条</h3><h3 id="视频产品"><a href="#视频产品" class="headerlink" title="视频产品"></a>视频产品</h3><h3 id="创新产品"><a href="#创新产品" class="headerlink" title="创新产品"></a>创新产品</h3><h2 id="搜狐视频"><a href="#搜狐视频" class="headerlink" title="搜狐视频"></a>搜狐视频</h2><h2 id="搜狐课堂"><a href="#搜狐课堂" class="headerlink" title="搜狐课堂"></a>搜狐课堂</h2><h2 id="慧科教育集团"><a href="#慧科教育集团" class="headerlink" title="慧科教育集团"></a>慧科教育集团</h2><script>
         document.querySelectorAll('.github-emoji')
           .forEach(el => {
             if (!el.dataset.src) { return; }
@@ -370,7 +467,7 @@
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="http://allensucre.github.io/2020/05/21/zong-jie-fu-pan/">http://allensucre.github.io/2020/05/21/zong-jie-fu-pan/</a>
+                    <a href="http://allensucre.github.io/2019/01/21/zong-jie-fu-pan/">http://allensucre.github.io/2019/01/21/zong-jie-fu-pan/</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -407,7 +504,11 @@
                 <div class="post-meta__tag-list" style="display: inline-block;">
                     
                         <div class="article-tag">
-                            <span class="chip bg-color">无标签</span>
+                            
+                                <a href="/tags/%E4%B8%AA%E4%BA%BA%E6%80%BB%E7%BB%93/">
+                                    <span class="chip bg-color">个人总结</span>
+                                </a>
+                            
                         </div>
                     
                 </div>
@@ -576,7 +677,7 @@
         repo: 'allensucre.github.io',
         owner: 'allensucre',
         admin: "allensucre",
-        id: '2020-05-21T10-56-22',
+        id: '2019-01-21T10-56-22',
         distractionFreeMode: false  // Facebook-like distraction free mode
     });
 
@@ -597,45 +698,53 @@
 <article id="prenext-posts" class="prev-next articles">
     <div class="row article-row">
         
-        <div class="article col s12 m6" data-aos="fade-up" data-aos="fade-up">
+        <div class="article col s12 m6" data-aos="fade-up">
             <div class="article-badge left-badge text-color">
-                <i class="far fa-dot-circle"></i>&nbsp;本篇
-            </div>
+                <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
             <div class="card">
-                <a href="/2020/05/21/zong-jie-fu-pan/">
+                <a href="/2019/03/26/ru-he-zai-nei-you-wai-huan-zhi-ji-zhi-ding-chu-yi-ge-he-li-de-chan-pin-zhan-lue-gui-hua/">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/19.jpg" class="responsive-img" alt="总结复盘">
+                        <img src="/medias/featureimages/22.jpg" class="responsive-img" alt="如何在内忧外患之际制定出一个合理的产品战略规划？">
                         
-                        <span class="card-title">总结复盘</span>
+                        <span class="card-title">如何在内忧外患之际制定出一个合理的产品战略规划？</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            基础信息自我介绍社区社区的产品策略
-社区的运营策略
-社区的数据
-游戏与互动猜电影
-内容产品影视头条视频产品
-        document.querySelectorAll('.github-emoji')
-          .forE
+                            复盘产品战略的制定与执行，梳理值得坚持和需要改进的地方（已加密）
                         
                     </div>
                     <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2020-05-21
-                            </span>
+                        <span class="publish-date">
+                            <i class="far fa-clock fa-fw icon-date"></i>2019-03-26
+                        </span>
                         <span class="publish-author">
                             
-                            <i class="fas fa-user fa-fw"></i>
-                            业哥
+                            <i class="fas fa-bookmark fa-fw icon-category"></i>
+                            
+                            <a href="/categories/%E4%BA%A7%E5%93%81%E5%AE%9E%E6%88%98/" class="post-category">
+                                    产品实战
+                                </a>
+                            
                             
                         </span>
                     </div>
                 </div>
-
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/%E4%BA%A7%E5%93%81%E8%A7%84%E5%88%92/">
+                        <span class="chip bg-color">产品规划</span>
+                    </a>
+                    
+                    <a href="/tags/%E6%88%98%E7%95%A5%E8%A7%84%E5%88%92/">
+                        <span class="chip bg-color">战略规划</span>
+                    </a>
+                    
+                </div>
                 
             </div>
         </div>
@@ -646,31 +755,31 @@
                 下一篇&nbsp;<i class="fas fa-chevron-right"></i>
             </div>
             <div class="card">
-                <a href="/2020/05/18/shi-guang-wang-she-qu-qi-shi-lu/">
+                <a href="/2018/03/06/chuang-ye-xiang-mu-de-ping-gu/">
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/0.jpg" class="responsive-img" alt="时光网社区启示录">
+                        <img src="/medias/featureimages/19.jpg" class="responsive-img" alt="如何评估一个产品机会">
                         
-                        <span class="card-title">时光网社区启示录</span>
+                        <span class="card-title">如何评估一个产品机会</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            复盘社区产品发展，提供社区设计新思路
+                            在产品真正开始做之前，你都需要考虑哪些问题？
                         
                     </div>
                     <div class="publish-info">
                             <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2020-05-18
+                                <i class="far fa-clock fa-fw icon-date"></i>2018-03-06
                             </span>
                         <span class="publish-author">
                             
                             <i class="fas fa-bookmark fa-fw icon-category"></i>
                             
-                            <a href="/categories/%E4%BA%A7%E5%93%81/" class="post-category">
-                                    产品
+                            <a href="/categories/%E5%88%9B%E4%B8%9A/" class="post-category">
+                                    创业
                                 </a>
                             
                             
@@ -680,12 +789,12 @@
                 
                 <div class="card-action article-tags">
                     
-                    <a href="/tags/%E7%A4%BE%E5%8C%BA/">
-                        <span class="chip bg-color">社区</span>
+                    <a href="/tags/%E5%88%9B%E4%B8%9A/">
+                        <span class="chip bg-color">创业</span>
                     </a>
                     
-                    <a href="/tags/%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1/">
-                        <span class="chip bg-color">产品设计</span>
+                    <a href="/tags/%E4%BA%A7%E5%93%81%E8%AF%84%E4%BC%B0/">
+                        <span class="chip bg-color">产品评估</span>
                     </a>
                     
                 </div>
@@ -725,6 +834,100 @@ code[class*="language-"], pre[class*="language-"] { white-space: pre !important;
 </style>
 
 
+    </div>
+    <div id="toc-aside" class="expanded col l3 hide-on-med-and-down">
+        <div class="toc-widget">
+            <div class="toc-title"><i class="far fa-list-alt"></i>&nbsp;&nbsp;目录</div>
+            <div id="toc-content"></div>
+        </div>
+    </div>
+</div>
+
+<!-- TOC 悬浮按钮. -->
+
+<div id="floating-toc-btn" class="hide-on-med-and-down">
+    <a class="btn-floating btn-large bg-color">
+        <i class="fas fa-list-ul"></i>
+    </a>
+</div>
+
+
+<script src="/libs/tocbot/tocbot.min.js"></script>
+<script>
+    $(function () {
+        tocbot.init({
+            tocSelector: '#toc-content',
+            contentSelector: '#articleContent',
+            headingsOffset: -($(window).height() * 0.4 - 45),
+            collapseDepth: Number('0'),
+            headingSelector: 'h2, h3, h4'
+        });
+
+        // modify the toc link href to support Chinese.
+        let i = 0;
+        let tocHeading = 'toc-heading-';
+        $('#toc-content a').each(function () {
+            $(this).attr('href', '#' + tocHeading + (++i));
+        });
+
+        // modify the heading title id to support Chinese.
+        i = 0;
+        $('#articleContent').children('h2, h3, h4').each(function () {
+            $(this).attr('id', tocHeading + (++i));
+        });
+
+        // Set scroll toc fixed.
+        let tocHeight = parseInt($(window).height() * 0.4 - 64);
+        let $tocWidget = $('.toc-widget');
+        $(window).scroll(function () {
+            let scroll = $(window).scrollTop();
+            /* add post toc fixed. */
+            if (scroll > tocHeight) {
+                $tocWidget.addClass('toc-fixed');
+            } else {
+                $tocWidget.removeClass('toc-fixed');
+            }
+        });
+
+        
+        /* 修复文章卡片 div 的宽度. */
+        let fixPostCardWidth = function (srcId, targetId) {
+            let srcDiv = $('#' + srcId);
+            if (srcDiv.length === 0) {
+                return;
+            }
+
+            let w = srcDiv.width();
+            if (w >= 450) {
+                w = w + 21;
+            } else if (w >= 350 && w < 450) {
+                w = w + 18;
+            } else if (w >= 300 && w < 350) {
+                w = w + 16;
+            } else {
+                w = w + 14;
+            }
+            $('#' + targetId).width(w);
+        };
+
+        // 切换TOC目录展开收缩的相关操作.
+        const expandedClass = 'expanded';
+        let $tocAside = $('#toc-aside');
+        let $mainContent = $('#main-content');
+        $('#floating-toc-btn .btn-floating').click(function () {
+            if ($tocAside.hasClass(expandedClass)) {
+                $tocAside.removeClass(expandedClass).hide();
+                $mainContent.removeClass('l9');
+            } else {
+                $tocAside.addClass(expandedClass).show();
+                $mainContent.addClass('l9');
+            }
+            fixPostCardWidth('artDetail', 'prenext-posts');
+        });
+        
+    });
+</script>
+
     
 
 </main>
@@ -743,7 +946,7 @@ code[class*="language-"], pre[class*="language-"] { white-space: pre !important;
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">29.1k</span>&nbsp;字
+                class="white-color">29.5k</span>&nbsp;字
             
             
             

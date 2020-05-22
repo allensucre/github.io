@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title>总结复盘</title>
-      <link href="/2020/05/21/zong-jie-fu-pan/"/>
-      <url>/2020/05/21/zong-jie-fu-pan/</url>
-      
-        <content type="html"><![CDATA[<h2 id="基础信息"><a href="#基础信息" class="headerlink" title="基础信息"></a>基础信息</h2><h3 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h3><h2 id="社区"><a href="#社区" class="headerlink" title="社区"></a>社区</h2><p>社区的产品策略</p><p>社区的运营策略</p><p>社区的数据</p><h2 id="游戏与互动"><a href="#游戏与互动" class="headerlink" title="游戏与互动"></a>游戏与互动</h2><p>猜电影</p><h2 id="内容产品"><a href="#内容产品" class="headerlink" title="内容产品"></a>内容产品</h2><h3 id="影视头条"><a href="#影视头条" class="headerlink" title="影视头条"></a>影视头条</h3><h3 id="视频产品"><a href="#视频产品" class="headerlink" title="视频产品"></a>视频产品</h3><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>时光网社区启示录</title>
       <link href="/2020/05/18/shi-guang-wang-she-qu-qi-shi-lu/"/>
       <url>/2020/05/18/shi-guang-wang-she-qu-qi-shi-lu/</url>
@@ -451,6 +438,25 @@
             <tag> 产品规划 </tag>
             
             <tag> 战略规划 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>总结复盘</title>
+      <link href="/2019/01/21/zong-jie-fu-pan/"/>
+      <url>/2019/01/21/zong-jie-fu-pan/</url>
+      
+        <content type="html"><![CDATA[<h2 id="基础信息"><a href="#基础信息" class="headerlink" title="基础信息"></a>基础信息</h2><h3 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h3><p>那我先自我介绍一下，我12年毕业正式开始做产品，到目前工作经验8年+，以内容和文娱产品的工作经验较多，（我自己有时候也会在知乎回答个问题，7万的赞同，2万6的答案收藏）。有两年做在线教育这种逆人性的产品，看起来这两类产品有些冲突一类顺人性一类逆人性，但是我从这两类不同的研究让我对产品有了更深的认识，包括对游戏化等方法研究和运用。自己对于这个岗位非常感兴趣，第一个坚定看好短视频类产品的未来发展（如果放长远一点看，除非5G对视频技术产生了更大的冲突，否则短视频是最适合目前移动互联网环境的碎片使用） 2 copyfromchina到海外方向我非常看好。我平时的爱好拍拍照，玩玩游戏，看看电影和书。</p><p>我目前离职的最主要原因在于时光网过去两年的整合不太好，今年组织架构调整已经彻底变为外包化，这与我个人对产品经理的定义和未来的职场发展有很大冲突，所以就选择离职</p><h3 id="细节"><a href="#细节" class="headerlink" title="细节"></a>细节</h3><h2 id="时光网"><a href="#时光网" class="headerlink" title="时光网"></a>时光网</h2><h3 id="社区"><a href="#社区" class="headerlink" title="社区"></a>社区</h3><p>社区产品这两年做的事情：</p><p>社区的产品策略</p><p>社区的运营策略</p><p>社区的数据</p><h3 id="游戏与互动"><a href="#游戏与互动" class="headerlink" title="游戏与互动"></a>游戏与互动</h3><p>猜电影</p><h3 id="内容产品"><a href="#内容产品" class="headerlink" title="内容产品"></a>内容产品</h3><p>内容产品我这3年做的事情包括</p><h3 id="影视头条"><a href="#影视头条" class="headerlink" title="影视头条"></a>影视头条</h3><h3 id="视频产品"><a href="#视频产品" class="headerlink" title="视频产品"></a>视频产品</h3><h3 id="创新产品"><a href="#创新产品" class="headerlink" title="创新产品"></a>创新产品</h3><h2 id="搜狐视频"><a href="#搜狐视频" class="headerlink" title="搜狐视频"></a>搜狐视频</h2><h2 id="搜狐课堂"><a href="#搜狐课堂" class="headerlink" title="搜狐课堂"></a>搜狐课堂</h2><h2 id="慧科教育集团"><a href="#慧科教育集团" class="headerlink" title="慧科教育集团"></a>慧科教育集团</h2><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 个人总结 </tag>
             
         </tags>
       
